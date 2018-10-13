@@ -1,0 +1,85 @@
+[{
+        "id": "3bb8475d-7093-4ce4-aea6-94990e6357a2",
+        "destination_id": "4e93bde2-51b4-4f5c-a63c-61eec8ccca7e",
+        "title": "Salkantay Trek",
+        "itinerary": "Day 1 Cusco\nArrive at any time.\n\nDay 2 Cusco / Wayraqmachay\nTransfer to the start of the trail and begin the Salkantay Trek.Stunning views and Inca ruins fill the days as you hike past the striking peaks of Salkantay,\nHumantay,\nand Ausangate,\namong others.Traverse high passes the highest point reaching 4,\n600 m(15, 092 ft) before descending into valleys nestled in the mountains.Spend the nights camping under the stars.Enjoy the spectacular mountain scenery and breathtaking views as the trek descends from the heights of the Andes to the lush subtropics surrounding Machu Picchu.\n\nMeals included: Breakfast | Lunch | Dinner\nDay 3 Salkantaypampa / Sahuayaco\nContinue the trek downhill,\npassing through the town of Collpabamba on the way to Chaullay.Hike along the Sahuayaco River through lush cloud forest to your campsite\nfor the evening,\nPlaya Sahuayaco.\n\nMeals included: Breakfast | Lunch | Dinner\nDay 4 Sahuayaco / Aguas Calientes\nHike to the Inca site Llaqtapata,\nwhere you can\ncatch your first glimpse of Machu Picchu.Catch the train in the afternoon to Aguas Calientes.\n\nMeals included: Breakfast | Lunch\nDay 5 Aguas Calientes / Cusco\nEnjoy a guided tour of Machu Picchu.Optional visit to the Inca Bridge and\nreturn to Cusco in the evening where the tour ends upon arrival.\n\nMeals included: Breakfast",
+        "description": "Salkantay has been dubbed the most spectacular peak in the Peruvian Andes. On this trip, you’ll trek in the shadows of this impressive mountain, interact with its inhabitants, and explore its forgotten ruins. Catch the train to Aguas Calientes for an early-morning visit to Machu Picchu.",
+        "included": [
+            "Most meals included",
+            "Happy hours at night",
+            "Luggage porter"
+        ],
+        "languages": [
+            "English",
+            "Spanish"
+        ],
+        "host_id": "21a9ea8e-dfa2-4ccc-acc7-98666a52f4fd",
+        "details": {
+            "style": "Active",
+            "physical_rating": 4,
+            "age_requirement": 12,
+            "group_size": 20,
+            "hours": 48
+        },
+        "location": {
+            "lat": -13.52264,
+            "lng": -71.96734
+        },
+        "price": 305.00,
+        "images": [{
+            "url": "https://s3-us-west-2.amazonaws.com/venga-static/dev-images/3bb8475d-7093-4ce4-aea6-94990e6357a2-0.jpeg",
+            "title": "Dip your feet in the beautiful glacial lake of Humantay"
+        }, {
+            "url": "https://s3-us-west-2.amazonaws.com/venga-static/dev-images/3bb8475d-7093-4ce4-aea6-94990e6357a2-1.jpeg",
+            "title": "Visit the lesser-known picturesque ruins of Llactapata"
+        }, {
+            "url": "https://s3-us-west-2.amazonaws.com/venga-static/dev-images/3bb8475d-7093-4ce4-aea6-94990e6357a2-2.jpeg",
+            "title": "Explore the fabled sanctuary of Machu Picchu"
+        }, {
+            "url": "https://s3-us-west-2.amazonaws.com/venga-static/dev-images/3bb8475d-7093-4ce4-aea6-94990e6357a2-3.jpeg",
+            "title": "Cross over the 4660m Salkantay pass before descending into the cloud forest"
+        }]
+    },
+    {
+        "id": "06273006-17bd-4138-95d8-b46353dd2252",
+        "destination_id": "4e93bde2-51b4-4f5c-a63c-61eec8ccca7e",
+        "title": "Lima Walking Tour",
+        "itinerary": "You will then walk to the Main Square of Lima, the perfect place to hear about the history of the city. Here you will see the Cathedral of Lima, City Hall, the Archbishop's Palace, and the Government Palace, where you can enjoy the change of the guard. You will also have the option of seeing Pizarro’s remains at the Museum of the Cathedral.",
+        "description": "Enjoy some of the most historic colonial sites in Peru and discover all the rich history and culture that the “City of Kings” has to offer. You find yourself feeling like you’ve been swept back in time as you visit the old colonial mansion, Casa Aliaga, and the Hotel Bolivar with its same 1920s decor. These are visits you cannot afford to miss when discovering Peru’s interesting past!",
+        "included": [
+            "Hotel pick-up (by foot)",
+            "Entrance ticket to the Cathedral Museum or the Saint Francis Museum",
+            "One alcoholic drink (Pisco sour, Peruvian beer, or chicha de jora) or non-alcoholic drink (chicha morada or Inca Kola)"
+        ],
+        "languages": [
+            "English",
+            "Spanish"
+        ],
+        "host_id": "21a9ea8e-dfa2-4ccc-acc7-98666a52f4fd",
+        "details": {
+            "style": "Active",
+            "physical_rating": 2,
+            "age_requirement": 8,
+            "group_size": 10,
+            "hours": 4
+        },
+        "location": {
+            "lat": -13.52264,
+            "lng": -71.96734
+        },
+        "price": 25.00,
+        "images": [{
+            "url": "https://s3-us-west-2.amazonaws.com/venga-static/dev-images/06273006-17bd-4138-95d8-b46353dd2252-0.jpeg",
+            "title": "Dip your feet in the beautiful glacial lake of Humantay"
+        }, {
+            "url": "https://s3-us-west-2.amazonaws.com/venga-static/dev-images/06273006-17bd-4138-95d8-b46353dd2252-1.jpeg",
+            "title": "Visit the lesser-known picturesque ruins of Llactapata"
+        }, {
+            "url": "https://s3-us-west-2.amazonaws.com/venga-static/dev-images/06273006-17bd-4138-95d8-b46353dd2252-2.jpeg",
+            "title": "Explore the fabled sanctuary of Machu Picchu"
+        }, {
+            "url": "https://s3-us-west-2.amazonaws.com/venga-static/dev-images/06273006-17bd-4138-95d8-b46353dd2252-3.jpeg",
+            "title": "Cross over the 4660m Salkantay pass before descending into the cloud forest"
+        }]
+    }
+]

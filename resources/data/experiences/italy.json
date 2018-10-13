@@ -1,0 +1,40 @@
+[{
+    "id": "ed876e71-81c4-4b37-891f-f7576e133834",
+    "destination_id": "77c45cf1-ddec-483f-a28f-2970773e2212",
+    "title": "Italy Hiking – The Volcano Route",
+    "itinerary": "We ascend to the summit of Mt. Vesuvius and venture through the ancient city of Pompeii. Hiking on the island of Vulcano, we get up-close views of the steaming fumaroles of Gran Cratere. Our third volcano hike on Stromboli provides one of the world’s best opportunities to witness fiery displays of steaming lava. We finish with a summit to Europe's highest active volcano, Mt. Etna, and a celebration in Catania with our newfound friends.",
+    "description": "Four iconic volcanic peaks—Vesuvius, Vulcano, Stromboli and Etna—are never far from view on this 11-day journey through the best of Southern Italy.",
+    "included": [
+        "Double occupancy accommodations in hotels for nine nights",
+        "Cabin on ferry for one night",
+        "All ground/water transportation within Italy",
+        "Wine tasting"
+    ],
+    "languages": [
+        "English",
+        "Spanish"
+    ],
+    "host_id": "21a9ea8e-dfa2-4ccc-acc7-98666a52f4fd",
+    "details": {
+        "style": "Active",
+        "physical_rating": 3,
+        "age_requirement": 12,
+        "group_size": 15,
+        "hours": 150
+    },
+    "location": {
+        "lat": -13.52264,
+        "lng": -71.96734
+    },
+    "price": 4299.00,
+    "images": [{
+        "url": "https://s3-us-west-2.amazonaws.com/venga-static/dev-images/ed876e71-81c4-4b37-891f-f7576e133834-1.jpeg",
+        "title": "Visit the lesser-known picturesque ruins of Llactapata"
+    }, {
+        "url": "https://s3-us-west-2.amazonaws.com/venga-static/dev-images/ed876e71-81c4-4b37-891f-f7576e133834-2.jpeg",
+        "title": "Explore the fabled sanctuary of Machu Picchu"
+    }, {
+        "url": "https://s3-us-west-2.amazonaws.com/venga-static/dev-images/ed876e71-81c4-4b37-891f-f7576e133834-3.jpeg",
+        "title": "Cross over the 4660m Salkantay pass before descending into the cloud forest"
+    }]
+}]

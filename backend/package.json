@@ -1,0 +1,29 @@
+{
+    "name": "users",
+    "version": "1.0.0",
+    "description": "",
+    "dependencies": {
+        "dotenv": "2.0.0",
+        "bluebird": "3.4.6",
+        "validator": "6.1.0",
+        "underscore": "1.8.3",
+        "request": "2.79.0",
+        "request-promise": "4.1.1",
+        "stripe": "4.15.0",
+        "jsonwebtoken": "7.3.0",
+        "uuid": "3.0.1",
+        "password-hash-and-salt": "0.1.4",
+        "twilio": "3.6.3"
+    },
+    "scripts": {
+        "test": "mocha test"
+    },
+    "author": "David Richards",
+    "license": "ISC",
+    "devDependencies": {
+        "babel-preset-es2015": "latest",
+        "gulp": "^3.9.1",
+        "gulp-standard": "^10.0.0",
+        "serverless-offline": "^3.14.2"
+    }
+}

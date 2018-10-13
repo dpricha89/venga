@@ -1,0 +1,86 @@
+[{
+        "id": "557528b9-8b1e-4ba7-8070-46cc689b7294",
+        "destination_id": "aee46c8a-15ed-4b3d-87d3-a2709c6a26e0",
+        "title": "Glacier hike & ice climbing",
+        "itinerary": "Hotel pick-up time: If you have chosen transfer please be ready at 8:30 AM for your pick-up from your Reykjavík accommodation and please note that it can take up to 30 minutes for us to arrive. Don’ t know where you will be staying ? No worries, just choose“ To Be Announced” for pick - up location and get back to us when you have further details.",
+        "description": "This tour offers you the opportunity to hike and climb at the immeasurably magnificent Sólheimajökull glacier. We will explore the crevasse riddled outlet glacier and also have the chance to test our ice climbing skills. With its amazing ice formations, sinkholes and jagged ridges, Sólheimajokull glacier is absolutely an unforgettable site to spend the day.",
+        "included": [
+            "Guided Glacier Hike",
+            "Optional introduction to ice climbing",
+            "Certified glacier guide",
+            "All neccesary glacier and climbing gear"
+        ],
+        "languages": [
+            "English",
+            "Spanish"
+        ],
+        "host_id": "21a9ea8e-dfa2-4ccc-acc7-98666a52f4fd",
+        "details": {
+            "style": "Active",
+            "physical_rating": 5,
+            "age_requirement": 14,
+            "group_size": 8,
+            "hours": 10
+        },
+        "location": {
+            "lat": -13.52264,
+            "lng": -71.96734
+        },
+        "price": 400.00,
+        "images": [{
+            "url": "https://s3-us-west-2.amazonaws.com/venga-static/dev-images/557528b9-8b1e-4ba7-8070-46cc689b7294-0.jpeg",
+            "title": "Dip your feet in the beautiful glacial lake of Humantay"
+        }, {
+            "url": "https://s3-us-west-2.amazonaws.com/venga-static/dev-images/557528b9-8b1e-4ba7-8070-46cc689b7294-1.jpeg",
+            "title": "Visit the lesser-known picturesque ruins of Llactapata"
+        }, {
+            "url": "https://s3-us-west-2.amazonaws.com/venga-static/dev-images/557528b9-8b1e-4ba7-8070-46cc689b7294-2.jpeg",
+            "title": "Explore the fabled sanctuary of Machu Picchu"
+        }, {
+            "url": "https://s3-us-west-2.amazonaws.com/venga-static/dev-images/557528b9-8b1e-4ba7-8070-46cc689b7294-3.jpeg",
+            "title": "Cross over the 4660m Salkantay pass before descending into the cloud forest"
+        }]
+    },
+    {
+        "id": "aba9db0a-5af7-474a-bb2e-eb910c12a60d",
+        "destination_id": "aee46c8a-15ed-4b3d-87d3-a2709c6a26e0",
+        "title": "Northern lights explorer",
+        "itinerary": "Each winter we are welcoming increased number of people coming to Iceland in search of the famous Aurora Borealis. This fascinating natural phenomenon, otherwise known as the northern lights, is one of the most mesmerizing sights you will ever come across in your life. The dancing colors and shapes in the dark arctic sky will simply leave you awestruck.",
+        "description": "Venture into the night with us in the luxury of a super jeep on a quest for the spectacular, unique and ever-changing show put on by the northern lights.",
+        "included": [
+            "Pick-up from Reykjavík",
+            "Hot chocolate and biscuits",
+            "Expert guidance"
+        ],
+        "languages": [
+            "English",
+            "Spanish"
+        ],
+        "host_id": "21a9ea8e-dfa2-4ccc-acc7-98666a52f4fd",
+        "details": {
+            "style": "Active",
+            "physical_rating": 1,
+            "age_requirement": 6,
+            "group_size": 16,
+            "hours": 4
+        },
+        "location": {
+            "lat": -13.52264,
+            "lng": -71.96734
+        },
+        "price": 100.00,
+        "images": [{
+            "url": "https://s3-us-west-2.amazonaws.com/venga-static/dev-images/aba9db0a-5af7-474a-bb2e-eb910c12a60d-0.jpeg",
+            "title": "Dip your feet in the beautiful glacial lake of Humantay"
+        }, {
+            "url": "https://s3-us-west-2.amazonaws.com/venga-static/dev-images/aba9db0a-5af7-474a-bb2e-eb910c12a60d-1.jpeg",
+            "title": "Visit the lesser-known picturesque ruins of Llactapata"
+        }, {
+            "url": "https://s3-us-west-2.amazonaws.com/venga-static/dev-images/aba9db0a-5af7-474a-bb2e-eb910c12a60d-2.jpeg",
+            "title": "Explore the fabled sanctuary of Machu Picchu"
+        }, {
+            "url": "https://s3-us-west-2.amazonaws.com/venga-static/dev-images/aba9db0a-5af7-474a-bb2e-eb910c12a60d-3.jpeg",
+            "title": "Cross over the 4660m Salkantay pass before descending into the cloud forest"
+        }]
+    }
+]

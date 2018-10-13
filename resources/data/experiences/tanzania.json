@@ -1,0 +1,45 @@
+[{
+    "id": "cd44ed4a-361b-4360-aca0-96b60f0a8b96",
+    "destination_id": "3f56f499-8fd5-4c34-a2c5-153b87623ac8",
+    "title": "Mt Kilimanjaro / Marangu Route",
+    "itinerary": "Pick up at your hotel in Arusha or Moshi and drive to Marangu gate, we will spend about two hours for registration, payments of fees and final parking. Start climbing through dense semi-tropical to the first hut- Mandara hut (9,000ft) for overnight. All meals included.\n\nBreakfast, ascend through the alpine meadow, and grassland and moorland to Horombo hut (12,000ft). Both Mawenzi and Kibo peaks can be viewed easily on the way. Dinner and an overnight stay at Horombo Hut. All meals included.",
+    "description": "6 days Kilimanjaro Climb on the Marangu Route. often regarded as the ‘easiest’ route to the top of Mt. Kilimanjaro",
+    "included": [
+        "All transfers",
+        "01 x HB at Moshi or Marangu prior your climb",
+        "Fullboard during climb including drinking water",
+        "Professional well experienced Kilimanjaro Team with English speaking Mountain guides, cook and porters",
+        "Mountain Hut accommodation (please bring your own sleeping bag)",
+        "All wildlife reserve entry fees, rescue fees, Climbing Certificates"
+    ],
+    "languages": [
+        "English",
+        "Spanish"
+    ],
+    "host_id": "21a9ea8e-dfa2-4ccc-acc7-98666a52f4fd",
+    "details": {
+        "style": "Active",
+        "physical_rating": 8,
+        "age_requirement": 12,
+        "group_size": 12,
+        "hours": 68
+    },
+    "location": {
+        "lat": -13.52264,
+        "lng": -71.96734
+    },
+    "price": 2005.00,
+    "images": [{
+        "url": "https://s3-us-west-2.amazonaws.com/venga-static/dev-images/cd44ed4a-361b-4360-aca0-96b60f0a8b96-0.jpeg",
+        "title": "Dip your feet in the beautiful glacial lake of Humantay"
+    }, {
+        "url": "https://s3-us-west-2.amazonaws.com/venga-static/dev-images/cd44ed4a-361b-4360-aca0-96b60f0a8b96-1.jpeg",
+        "title": "Visit the lesser-known picturesque ruins of Llactapata"
+    }, {
+        "url": "https://s3-us-west-2.amazonaws.com/venga-static/dev-images/cd44ed4a-361b-4360-aca0-96b60f0a8b96-2.jpeg",
+        "title": "Explore the fabled sanctuary of Machu Picchu"
+    }, {
+        "url": "https://s3-us-west-2.amazonaws.com/venga-static/dev-images/cd44ed4a-361b-4360-aca0-96b60f0a8b96-3.jpeg",
+        "title": "Cross over the 4660m Salkantay pass before descending into the cloud forest"
+    }]
+}]

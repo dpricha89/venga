@@ -1,0 +1,38 @@
+[{
+    "id": "869d629e-766d-4625-89a5-39e61238e401",
+    "destination_id": "fa4d30b4-9175-42fe-9be8-57cbebcdcd0e",
+    "title": "Ultimate Kayak Adventure",
+    "itinerary": "Commercial flights from the United States to Havana have effectively replaced group charter flights as the standard mode of travel between the two countries.  We now ask that our guests book their own travel between the U.S. and Havana. This tour will begin in Havana at approximately 11:00 AM on Day 1. Our meeting point on Day 1 will be Havana's Jose Marti International Airport where your Tour Leader and local guides will meet you to begin your tour",
+    "description": "Join us on our new kayak and walking tour of Eastern Cuba and discover for yourself its unadulterated allure. Less tourist trappings and regulated infrastructure give each town an undampened authenticity. Closer to Caribbean islands such as Jamaica, the towns hold a much more palpable Caribbean paradise edge—one bedecked in palm-fringed beaches and unspoiled emerald wildernesses spotted with parrots. And of course, soused in rum.",
+    "included": [
+        "Pickup from hotel",
+        "Kayak rental"
+    ],
+    "languages": [
+        "English",
+        "Spanish"
+    ],
+    "host_id": "21a9ea8e-dfa2-4ccc-acc7-98666a52f4fd",
+    "details": {
+        "style": "Active",
+        "physical_rating": 4,
+        "age_requirement": 12,
+        "group_size": 6,
+        "hours": 10
+    },
+    "location": {
+        "lat": -13.52264,
+        "lng": -71.96734
+    },
+    "price": 300.00,
+    "images": [{
+        "url": "https://s3-us-west-2.amazonaws.com/venga-static/dev-images/869d629e-766d-4625-89a5-39e61238e401-0.jpeg",
+        "title": "Dip your feet in the beautiful glacial lake of Humantay"
+    }, {
+        "url": "https://s3-us-west-2.amazonaws.com/venga-static/dev-images/869d629e-766d-4625-89a5-39e61238e401-1.jpeg",
+        "title": "Visit the lesser-known picturesque ruins of Llactapata"
+    }, {
+        "url": "https://s3-us-west-2.amazonaws.com/venga-static/dev-images/869d629e-766d-4625-89a5-39e61238e401-2.jpeg",
+        "title": "Cross over the 4660m Salkantay pass before descending into the cloud forest"
+    }]
+}]

@@ -1,0 +1,42 @@
+[{
+    "id": "5830507a-240b-427c-8eb5-ce2b8fdb2c51",
+    "destination_id": "b79880cf-1136-4244-b290-4914179b71bf",
+    "title": "Baja Kayaking Escape",
+    "itinerary": "Paddle from one beautiful bay to another as we uncover the wonders of this amazing coastline. We quickly grow accustomed to days spent kayaking, snorkeling, stand up paddle boarding and hiking into the desert canyons. Snorkel with young and inquisitive sea lions at the permanent sea lion colony of Los Islotes. Greet the dawn with a good stretch during a relaxing yoga session amidst unparalleled tranquility. Cap each evening off with good company and comfortable lodging, including three nights camping on the beach beneath the starry night sky in very roomy, safari-style tents.",
+    "description": "Spend an unforgettable six days kayaking, snorkeling and paddle boarding in paradise.",
+    "included": [
+        "Kayaks and gear",
+        "meals",
+        "Transportation"
+    ],
+    "languages": [
+        "English",
+        "Spanish"
+    ],
+    "host_id": "21a9ea8e-dfa2-4ccc-acc7-98666a52f4fd",
+    "details": {
+        "style": "Active",
+        "physical_rating": 8,
+        "age_requirement": 12,
+        "group_size": 14,
+        "hours": 100
+    },
+    "location": {
+        "lat": -13.52264,
+        "lng": -71.96734
+    },
+    "price": 2399.00,
+    "images": [{
+        "url": "https://s3-us-west-2.amazonaws.com/venga-static/dev-images/5830507a-240b-427c-8eb5-ce2b8fdb2c51-0.jpeg",
+        "title": "Dip your feet in the beautiful glacial lake of Humantay"
+    }, {
+        "url": "https://s3-us-west-2.amazonaws.com/venga-static/dev-images/5830507a-240b-427c-8eb5-ce2b8fdb2c51-1.jpeg",
+        "title": "Visit the lesser-known picturesque ruins of Llactapata"
+    }, {
+        "url": "https://s3-us-west-2.amazonaws.com/venga-static/dev-images/5830507a-240b-427c-8eb5-ce2b8fdb2c51-2.jpeg",
+        "title": "Explore the fabled sanctuary of Machu Picchu"
+    }, {
+        "url": "https://s3-us-west-2.amazonaws.com/venga-static/dev-images/5830507a-240b-427c-8eb5-ce2b8fdb2c51-3.jpeg",
+        "title": "Cross over the 4660m Salkantay pass before descending into the cloud forest"
+    }]
+}]

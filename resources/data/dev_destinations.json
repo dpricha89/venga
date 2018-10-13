@@ -1,0 +1,55 @@
+[{
+        "id": "4e93bde2-51b4-4f5c-a63c-61eec8ccca7e",
+        "imageUrl": "https://cdn.kimkim.com/files/a/article_images/images/f354b9c2a0bc13672c913c9895875aab3327d2a6/big.jpg?1475012797",
+        "title": "Peru",
+        "description": "Peru is located in the west of South America, and has borders with Ecuador, Colombia, Brazil, Bolivia and Chile. It has sovereignty over 1,285,215 km2 of land and 200 nautical miles of the Pacific Ocean, as well as 60 million hectares of the Antarctic."
+    }, {
+        "id": "3f56f499-8fd5-4c34-a2c5-153b87623ac8",
+        "imageUrl": "https://dailybouncer.com/wp-content/uploads/2014/10/11-Top-tips-for-Business-Travel-in-Tanzania.jpg",
+        "title": "Tanzania",
+        "description": "Tanzania is bordered on the south by Mozambique, Malawi, and Zambia; on the west by Zaire, Burundi, and Rwanda; on the north by Uganda and Kenya; and on the east by the Indian Ocean. Tanzania is the largest of the East African nations, and it possesses a geography as mythic as it is spectacular."
+    }, {
+        "id": "fa4d30b4-9175-42fe-9be8-57cbebcdcd0e",
+        "imageUrl": "https://www.boundlessjourneys.com/wp-content/uploads/tourcube/vtc_trip/22781/trip_highlights/5587237cuba_highlight4.jpg",
+        "title": "Cuba",
+        "description": "Located between the Caribbean Sea, the Mexican Gulf and the Atlantic waters, the Cuban archipelago with a surface area of 110, 992 km2 is composed by the Island of Cuba, Isle of Youth ( Isla de Pinos), and 1600 small islands or keys grouped in for archipelagos called Colorados, Sabana Camaguey or Jardines del Rey, Jardines de la Reina and Canarreos."
+    }, {
+        "id": "77c45cf1-ddec-483f-a28f-2970773e2212",
+        "imageUrl": "https://s3.amazonaws.com/iexplore_web/images/assets/000/006/411/original/italy.jpg?1443530132",
+        "title": "Italy",
+        "description": "A country of rich, spectacular food and wines, artisans producing everything from fine olive oils to flawless tooled leathers, fashion designers setting style for the rich and famous throughout the world, and a disproportionate number of the world’s most famous art treasures, this is Italy. It has rolling hills, lush, verdant valleys, snow-capped mountains, ancient hamlets and bustling cities."
+    },
+    {
+        "id": "aee46c8a-15ed-4b3d-87d3-a2709c6a26e0",
+        "imageUrl": "https://static1.businessinsider.com/image/54c286256da811506ff178df-1200/you-could-try-renting-a-car-to-drive-around-the-entire-island-on-icelands-830-mile-long-ring-road.jpg",
+        "title": "Iceland",
+        "description": "Iceland is a volcanic island located in the North Atlantic Ocean, 300 km east of Greenland and 900 km west of Norway. The main island, which lies south of the Arctic Circle, covers an area of 103,000 km, which is roughly the size of the U.S. state of Virginia or slightly bigger than Ireland."
+    },
+    {
+        "id": "fe412520-1897-4c3a-a017-22d3666a808b",
+        "imageUrl": "https://cdnimg.in/wp-content/uploads/2015/08/Spring-Is-The-Best-Time-To-Visit-Japan.jpg?2bbdf3",
+        "title": "Japan",
+        "description": "Japan has a fascinating and multifaceted culture; on the one hand it is steeped in the deepest of traditions dating back thousands of years; on the other it is a society in a continual state of rapid flux, with continually shifting fads and fashions and technological development that constantly pushes back the boundaries of the possible. This is part of what makes it such a fascinating country to visit. If you are looking for something different you are sure to find it here!"
+    }, {
+        "id": "df6d5795-2f2d-44f6-b6c7-347430f4c119",
+        "imageUrl": "https://thetravellier.files.wordpress.com/2013/10/queenstown_new_zealand-wide.jpg",
+        "title": "New Zealand",
+        "description": "New Zealand is a small country, similar in size to Great Britain or Japan. With a population of only four million people it’s also gloriously uncrowded."
+    },
+    {
+        "id": "9574b9df-6db8-4ddc-96ba-373225777d7f",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/03/ac/04/55/beach-at-panama-city.jpg",
+        "title": "Panama",
+        "description": "For many people, Panama means the Panama Canal but the country has much more to offer than the 80km waterway alone. The unspoiled highlands with lots of nature and wildlife in the West, Caribbean dreams in the North and thick lush rainforest in the Eastern part of the country."
+    }, {
+        "id": "cc6c20e5-2fdb-4692-bbc4-d851026cb095",
+        "imageUrl": "https://mustseeplaces.eu/wp-content/uploads/2016/08/The-Emerald-Coast-nicaragua-1024x576.jpg",
+        "title": "Nicaragua",
+        "description": "is a little known destination for most of the world's travelers. This part of our web site was made to help you learn a bit in advance about what the country has to offer. It is a summary and is not meant to represent all of the possibilities for the visitor. Your specific interests could very well bring new destinations to the forefront. We can suggest these other locales based on your input. This Nicaragua country information page includes a summary of Nicaragua nature parks and reserves, the San Juan River, Nicaragua's stunning volcanoes, Nicaraguan beaches, colonial cities and artisan villages"
+    }, {
+        "id": "b79880cf-1136-4244-b290-4914179b71bf",
+        "imageUrl": "https://farm8.staticflickr.com/7461/15550255879_c442420ff5_b.jpg",
+        "title": "Mexico",
+        "description": "Mexico is bordered by the United States to the north and Belize and Guatemala to the southeast. Mexico is about one-fifth the size of the United States. Baja California in the west is an 800-mile (1,287-km) peninsula that forms the Gulf of California. In the east are the Gulf of Mexico and the Bay of Campeche, which is formed by Mexico's other peninsula, the Yucatán. The center of Mexico is a great, high plateau, open to the north, with mountain chains on the east and west and with ocean-front lowlands beyond."
+    }
+]
